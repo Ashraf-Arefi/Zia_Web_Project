@@ -1,0 +1,109 @@
+2019-08-26 17:11:23 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-08-26 17:11:23 0 [Note] InnoDB: Uses event mutexes
+2019-08-26 17:11:23 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-08-26 17:11:23 0 [Note] InnoDB: Number of pools: 1
+2019-08-26 17:11:23 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-08-26 17:11:25 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-08-26 17:11:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-08-26 17:11:26 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-08-26 17:11:26 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-08-26 17:11:26 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-08-26 17:11:26 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-08-26 17:11:26 0 [Note] InnoDB: 10.3.14 started; log sequence number 1631253; transaction id 21
+2019-08-26 17:11:26 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\htdocs\tutia_hall\mysql\data\ib_buffer_pool
+2019-08-26 17:11:26 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-08-26 17:11:26 0 [Note] InnoDB: Buffer pool(s) load completed at 190826 17:11:26
+2019-08-26 17:11:27 0 [Note] Server socket created on IP: '::'.
+2019-08-26 17:11:27 0 [Note] Reading of all Master_info entries succeded
+2019-08-26 17:11:27 0 [Note] Added new Master_info '' to hash table
+2019-08-26 17:11:27 0 [Note] C:\xampp\htdocs\tutia_hall\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB-log'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-08-26 17:12:21 9 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2019-08-26 20:05:36 17 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2019-08-26 20:15:39 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-08-26 20:15:39 0 [Note] InnoDB: Uses event mutexes
+2019-08-26 20:15:39 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-08-26 20:15:39 0 [Note] InnoDB: Number of pools: 1
+2019-08-26 20:15:39 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-08-26 20:15:39 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-08-26 20:15:39 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-08-26 20:15:39 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=3256768
+2019-08-26 20:15:41 0 [Note] InnoDB: Last binlog file '.\mysql-bin.000002', position 39940
+2019-08-26 20:15:42 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-08-26 20:15:42 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-08-26 20:15:42 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-08-26 20:15:42 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-08-26 20:15:42 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-08-26 20:15:42 0 [Note] InnoDB: Waiting for purge to start
+2019-08-26 20:15:42 0 [Note] InnoDB: 10.3.14 started; log sequence number 3256777; transaction id 2131
+2019-08-26 20:15:42 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\htdocs\tutia_hall\mysql\data\ib_buffer_pool
+2019-08-26 20:15:43 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-08-26 20:15:43 0 [Note] Recovering after a crash using mysql-bin
+2019-08-26 20:15:43 0 [Note] Starting crash recovery...
+2019-08-26 20:15:43 0 [Note] Crash recovery finished.
+2019-08-26 20:15:44 0 [Note] InnoDB: Buffer pool(s) load completed at 190826 20:15:44
+2019-08-26 20:15:45 0 [Note] Server socket created on IP: '::'.
+2019-08-26 20:15:45 0 [Note] Reading of all Master_info entries succeded
+2019-08-26 20:15:45 0 [Note] Added new Master_info '' to hash table
+2019-08-26 20:15:45 0 [Note] C:\xampp\htdocs\tutia_hall\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB-log'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-08-26 20:17:07 12 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2019-08-26 20:17:10 13 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2019-08-26 20:30:06 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2019-08-26 20:30:06 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2019-08-26 20:30:06 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2019-08-26 20:30:06 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2019-08-26 20:30:06 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-08-26 20:30:06 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2019-08-26 20:30:06 0 [ERROR] Aborting
+
+2019-08-26 20:31:46 0 [Note] C:\xampp\htdocs\tutia_hall\mysql\bin\mysqld.exe (initiated by: root[root] @ localhost [::1]): Normal shutdown
+2019-08-26 20:31:46 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-08-26 20:31:46 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-08-26 20:31:47 0 [Note] InnoDB: Starting shutdown...
+2019-08-26 20:31:47 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\htdocs\tutia_hall\mysql\data\ib_buffer_pool
+2019-08-26 20:31:47 0 [Note] InnoDB: Buffer pool(s) dump completed at 190826 20:31:47
+2019-08-26 20:31:48 0 [Note] InnoDB: Shutdown completed; log sequence number 3256795; transaction id 2168
+2019-08-26 20:31:48 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-08-26 20:31:48 0 [Note] C:\xampp\htdocs\tutia_hall\mysql\bin\mysqld.exe: Shutdown complete
+
+2019-08-26 20:32:35 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-08-26 20:32:35 0 [Note] InnoDB: Uses event mutexes
+2019-08-26 20:32:35 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-08-26 20:32:35 0 [Note] InnoDB: Number of pools: 1
+2019-08-26 20:32:35 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-08-26 20:32:35 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-08-26 20:32:35 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-08-26 20:32:36 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-08-26 20:32:36 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-08-26 20:32:36 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-08-26 20:32:36 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2019-08-26 20:32:36 0 [Note] InnoDB: Waiting for purge to start
+2019-08-26 20:32:36 0 [Note] InnoDB: 10.3.14 started; log sequence number 3256795; transaction id 2131
+2019-08-26 20:32:36 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\htdocs\tutia_hall\mysql\data\ib_buffer_pool
+2019-08-26 20:32:36 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-08-26 20:32:37 0 [Note] Server socket created on IP: '::'.
+2019-08-26 20:32:37 0 [Note] Reading of all Master_info entries succeded
+2019-08-26 20:32:37 0 [Note] Added new Master_info '' to hash table
+2019-08-26 20:32:37 0 [Note] C:\xampp\htdocs\tutia_hall\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.3.14-MariaDB-log'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-08-26 20:32:39 0 [Note] InnoDB: Buffer pool(s) load completed at 190826 20:32:39
+2019-08-26 20:32:41 9 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2019-08-26 20:32:51 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2019-08-26 20:32:51 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2019-08-26 20:32:51 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2019-08-26 20:32:51 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2019-08-26 20:32:51 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-08-26 20:32:51 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2019-08-26 20:32:51 0 [ERROR] Aborting
+
+2019-08-26 20:33:11 0 [Note] C:\xampp\htdocs\tutia_hall\mysql\bin\mysqld.exe (initiated by: root[root] @ localhost [::1]): Normal shutdown
+2019-08-26 20:33:11 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-08-26 20:33:11 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-08-26 20:33:11 0 [Note] InnoDB: Starting shutdown...
+2019-08-26 20:33:11 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\htdocs\tutia_hall\mysql\data\ib_buffer_pool
+2019-08-26 20:33:11 0 [Note] InnoDB: Buffer pool(s) dump completed at 190826 20:33:11
+2019-08-26 20:33:13 0 [Note] InnoDB: Shutdown completed; log sequence number 3256804; transaction id 2132
+2019-08-26 20:33:13 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-08-26 20:33:13 0 [Note] C:\xampp\htdocs\tutia_hall\mysql\bin\mysqld.exe: Shutdown complete
+

@@ -1,0 +1,2 @@
+<a href="{{route('management.reason_pay.edit',$reason_pay->id)}}">Edit<i class="glyphicon glyphicon-edit"></i></a>
+<a href="{{route('management.reason_pay.delete',$reason_pay->id)}}" >Delete<i class="glyphicon glyphicon-trash"></i></a>
